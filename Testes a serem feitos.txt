@@ -1,0 +1,10 @@
+		YAGI
+1) Tornar diretores da yagi iguais
+2) Afastar ou aproximar diretores
+3) manter iguais e manipular distancias
+
+		MOXON
+1) Afastar ou aproximar refletor 
+
+
+--- verificar ganho e swR
